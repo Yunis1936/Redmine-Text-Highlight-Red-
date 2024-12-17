@@ -38,7 +38,7 @@
             borderWidth: '1px',
             borderColor: '#ddd',
             backgroundColor: 'transparent',
-            backgroundImage: 'url("https://sotni.ru/wp-content/uploads/2023/08/krasnymi-bukvami-6.webp")', // URL иконки кнопки
+            backgroundImage: 'url("https://cdn-icons-png.flaticon.com/256/15484/15484458.png")', // URL иконки кнопки
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             cursor: 'pointer',
